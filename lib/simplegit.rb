@@ -1,3 +1,4 @@
+# a super simple example class to use git in ruby ok.
 # a super simple example class to use git in ruby second one.
 class SimpleGit
   
